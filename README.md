@@ -1,4 +1,5 @@
-#  git branch <branchname>
+$ git branch jongsup1
+jongsup2
   
 
 
